@@ -16,14 +16,14 @@ h1 {
 }
 
 main {
-    background-color: lightgray;
+    background-color: rgb(243, 239, 239);
     margin-top: 50px;
     padding-top: 30px;
     padding-bottom: 10px;
 }
 
 .container {
-    height: 500px;
+    height: 600px;
     max-width: 900px;
     margin: auto;
     padding: 60px;
@@ -35,12 +35,36 @@ main {
 }
 button{
     display: inline-block;
-    background-color: bisque;
+    border-radius: 10px;
 }
  span {
     display: inline-block;
 } 
 
 section {
-    padding: 15px;
+    padding: 25px;
+}
+
+.editorial {
+    background-color: rgb(59, 155, 184);
+}
+
+#violet {
+    background-color: violet;
+}
+
+#lightgreen {
+    background-color: lightgreen;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#deepviolet {
+    background-color: blueviolet;
+}
+
+#green {
+    background-color: green;
 }
