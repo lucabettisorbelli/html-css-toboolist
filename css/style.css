@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    height: 100px;
+}
+
+#logo {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 25px;
+    display: inline-block;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
