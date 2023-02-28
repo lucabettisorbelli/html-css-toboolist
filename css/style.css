@@ -18,6 +18,8 @@ h1 {
 main {
     background-color: lightgray;
     margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 .container {
@@ -27,3 +29,13 @@ main {
     padding: 60px;
     background-color: white;
 }
+
+/* h3  {
+    display: inline;
+}
+button{
+    display: inline-block;
+}
+/* span {
+    display: inline-block;
+} */ */
