@@ -30,12 +30,17 @@ main {
     background-color: white;
 }
 
-/* h3  {
+ h3  {
     display: inline;
 }
 button{
     display: inline-block;
+    background-color: bisque;
 }
-/* span {
+ span {
     display: inline-block;
-} */ */
+} 
+
+section {
+    padding: 15px;
+}
