@@ -12,9 +12,10 @@ header {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 30px;
     display: inline-block;
     vertical-align: top;
+    font-weight: 900;
 }
 
 main {
@@ -35,9 +36,13 @@ main {
  h3  {
     display: inline;
 }
+
 button{
     display: inline-block;
     border-radius: 10px;
+    cursor: pointer;
+    padding: 5px 10px;
+    border: none;
 }
  span {
     display: inline-block;
