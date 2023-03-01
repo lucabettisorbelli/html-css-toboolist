@@ -43,13 +43,14 @@ button{
     cursor: pointer;
     padding: 5px 10px;
     border: none;
+    color: white;
 }
  span {
     display: inline-block;
 } 
 
 section {
-    padding: 25px;
+    padding: 30px;
 }
 
 .editorial {
@@ -74,4 +75,13 @@ section {
 
 #green {
     background-color: green;
+}
+
+.circle {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    color: green;
 }
